@@ -22,4 +22,4 @@ I use data to solve real-world health and logistics problems, turning insights i
 ### 🌐 Connect with me
 - LinkedIn: your link  
 - Email: your email  
-- Portfolio: your link  
+- Portfolio: your link : https://github.com/ozoagujulietoluchi/PORTFOLIO
